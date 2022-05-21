@@ -16,10 +16,10 @@ schema: default
 
 # Nav bar
 navigation:
-  - title: Dados
-    url: /dados/
-  - title: Organizações
-    url: /organizações/
+  - title: Datasets
+    url: /datasets/
+  - title: Organization
+    url: /organization/
 
 # Collections
 collections:
@@ -28,20 +28,20 @@ collections:
     permalink: /dados/:path/
   organizations:
     output: true
-    permalink: /organizações/:path/
+    permalink: /organization/:path/
 
 # Collections (cont'd)
 defaults:
   - scope:
       path: ""
-      type: dados
+      type: dataset
     values:
       layout: dataset
       category: Uncategorized
       organization: N/A
   - scope:
       path: ""
-      type: organizações
+      type: organization
     values:
       layout: organization
 
