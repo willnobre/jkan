@@ -1,12 +1,12 @@
 title: TJGO
 greeting: DADOS ABERTOS TJGO
 description: Por que dados abertos? <p>Dados abertos são os dados que qualquer pessoa pode livremente utilizar, reutilizar e redistribuir, criando novos conteúdos e aplicações. Para tanto, os dados abertos adotam formatos técnicos não proprietários e licenças que permitam sua livre reutilização, exigindo apenas que se credite a fonte.</p>
-
+<p>A adoção de uma política de dados abertos governamentais estimula a disseminação de dados públicos na internet, proporcionando um maior acesso à informação e fortalecendo o controle social. Os dados abertos estimulam também a criação de novas soluções por parte da sociedade, em atendimento a demandas diversas, gerando emprego e renda para a população.</p>
 baseurl: /jkan
 logo: /img/jkan.png
 
 # Site theme
-jkan_theme: Default
+jkan_theme: Cerulean
 
 # Authentication
 github_client_id: 38bee390ed5935a0090a
