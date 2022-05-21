@@ -19,7 +19,7 @@ navigation:
   - title: Dados
     url: /datasets/
   - title: Organizações
-    url: /organization/
+    url: /organizations/
 
 # Collections
 collections:
