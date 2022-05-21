@@ -16,10 +16,10 @@ schema: default
 
 # Nav bar
 navigation:
-  - title: Datasets
-    url: /datasets/
-  - title: Organizations
-    url: /organizations/
+  - title: Dados
+    url: /dados/
+  - title: Organizações
+    url: /organizações/
 
 # Collections
 collections:
