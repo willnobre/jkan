@@ -25,23 +25,23 @@ navigation:
 collections:
   datasets:
     output: true
-    permalink: /datasets/:path/
+    permalink: /dados/:path/
   organizations:
     output: true
-    permalink: /organizations/:path/
+    permalink: /organizações/:path/
 
 # Collections (cont'd)
 defaults:
   - scope:
       path: ""
-      type: datasets
+      type: dados
     values:
       layout: dataset
       category: Uncategorized
       organization: N/A
   - scope:
       path: ""
-      type: organizations
+      type: organizações
     values:
       layout: organization
 
