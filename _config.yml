@@ -1,6 +1,7 @@
-title: JKAN
-greeting: Welcome to JKAN
-description: A lightweight, backend-free open data portal, powered by Jekyll.
+title: TJGO
+greeting: DADOS ABERTOS TJGO
+description: Por que dados abertos? <p>Dados abertos são os dados que qualquer pessoa pode livremente utilizar, reutilizar e redistribuir, criando novos conteúdos e aplicações. Para tanto, os dados abertos adotam formatos técnicos não proprietários e licenças que permitam sua livre reutilização, exigindo apenas que se credite a fonte.</p>
+
 baseurl: /jkan
 logo: /img/jkan.png
 
